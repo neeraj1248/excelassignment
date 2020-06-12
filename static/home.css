@@ -1,0 +1,29 @@
+body{
+  background-color: #dee2e6;
+}
+.main_container{
+  padding-top: 200px;
+
+}
+.file{
+  display: flex;
+  justify-content: center;
+}
+.fr{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.err{
+  margin-top: 10px;
+  color: red
+}
+.inp{
+  border: 1px solid gray;
+  margin-right: 15px;
+  border-radius: 5px;
+}
+.btn{
+  margin-left: 5px;
+}
